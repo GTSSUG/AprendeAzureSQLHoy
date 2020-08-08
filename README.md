@@ -1,12 +1,5 @@
 # Aprende Azure SQL hoy!
 
-
-## Microsoft’s learning solutions pave the way toward data-centric jobs of the future
-
-## Building upon this goal, we're excited to announce the Azure Data team’s latest additions to these educational programs.
-
-Our all-new content will help beginners being introduced to Azure as well as SQL experts learn how to understand the benefits of Azure SQL. Since SQL Server and Azure SQL share the same engine, these new set of tools builds upon familiar content. This means SQL Server professionals can become Azure SQL professionals with just a little bit of help, such as:
-
 * ### [Microsoft Learn learning path](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/?WT.mc_id=azuresql4beg_azuresql-blog-learn)
   This six-course Azure SQL fundamentals learning path provides a built-in lab environment for you to learn at your own pace without a subscription.
 
